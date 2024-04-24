@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIVYASRI KRISHNAN</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <div id="about" class="content-section">
+        <h1>About Me</h1>
+        <p>Divyasri Krishnan is a writer from Massachusetts. Her writing appears in DIAGRAM, Muzzle Magazine, Frontier Poetry, and elsewhere, and has been recognized by the Periplus Collective, Kenyon Review, Best of the Net, and the Pittsburgh Humanities Festival. She studies decision science at Carnegie Mellon University and Sanskrit at the University of Pittsburgh.</p>
+    </div>
+    <div id="publications" class="content-section">
+        <h1>Publications</h1>
+        <p>List your key publications here. This could be formatted as a list or linked to full texts or abstracts.</p>
+    </div>
+    <div id="contact" class="content-section">
+        <h1>Contact</h1>
+        <p>How to reach you, including email or links to social media.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Divyasri Krishnan</p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
+
